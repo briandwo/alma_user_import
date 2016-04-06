@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+     <user>
+         <recordType desc="Public">PUBLIC</recordType>
+         <primary_id>BRIANDWO</primary_id>
+         <first_name>Margaret</first_name>
+         <middle_name>Briand</middle_name>
+         <last_name>Wolfe</last_name>
+         <job_category desc=""></job_category>
+         <job_description>ONeill Library</job_description>
+         <gender desc=""></gender>
+         <user_group desc="BC Staff">08</user_group>
+         <campus_code desc=""></campus_code>
+         <preferred_language desc="English">en</preferred_language>
+         <expiry_date>2034-12-31</expiry_date>
+         <purge_date>2034-12-31</purge_date>
+         <account_type desc="External">EXTERNAL</account_type>
+         <external_id>SIS</external_id>
+         <status desc="Active">ACTIVE</status>
+       <contact_info>
+       <addresses>
+       <address preferred="false" segment_type="External">
+         <line1>10 Main Street</line1>
+         <city>Newton</city>
+         <state_province>MA</state_province>
+         <postal_code>02460</postal_code>
+         <start_date>2015-06-01</start_date>
+         <end_date>2018-08-31</end_date>
+           <address_types><address_type desc="Home">home</address_type>
+         </address_types>
+       </address>
+       <address preferred="true" segment_type="External">
+         <line1>503 O'Neill Library</line1>
+         <line2>140 Commonwealth Ave</line2>
+         <line3>Room 503</line3>
+         <city>Chestnut Hill</city>
+         <state_province>MA</state_province>
+         <postal_code>02467</postal_code>
+         <start_date>2015-06-01</start_date>
+         <end_date>2018-08-31</end_date>
+           <address_types><address_type desc="Work">work</address_type>
+         </address_types>
+       </address>
+       </addresses>
+       <emails>
+       <email preferred="true">
+         <email_address>margaret.briandwolfe@bc.edu</email_address>
+       <email_types>
+           <email_type desc="Personal">personal</email_type>
+       </email_types>
+       </email>
+       </emails>
+       <phones>
+       <phone preferred="false" preferred_sms="false" segment_type="External">
+         <phone_number>6179650123</phone_number>
+       <phone_types>
+           <phone_type desc="Home">home</phone_type>
+       </phone_types>
+       </phone>
+       <phone preferred="true" preferred_sms="false" segment_type="External">
+         <phone_number>6175524132</phone_number>
+       <phone_types>
+           <phone_type desc="Office">office</phone_type>
+       </phone_types>
+       </phone>
+       </phones>
+       </contact_info>
+   <user_identifiers>
+       <user_identifier segment_type="External">
+       <id_type desc="Eagle ID">01</id_type>
+         <value>12345678</value>
+         <status>ACTIVE</status>
+       </user_identifier>
+       <user_identifier segment_type="External">
+       <id_type desc="ID Card Mag Stripe">05</id_type>
+         <value>88888888</value>
+         <status>ACTIVE</status>
+       </user_identifier>
+   </user_identifiers>
+     </user>
+</users>
